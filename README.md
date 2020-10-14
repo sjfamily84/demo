@@ -8,3 +8,4 @@ This is a simple read em file
 Something different
 
 Update in stage
+Another line
